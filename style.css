@@ -27,7 +27,7 @@ body {
   color: var(--text);
   background:
     linear-gradient(180deg, rgba(0, 0, 0, 0.38), rgba(0, 0, 0, 0.52)),
-    url('../nextstep.community/next-step-background.png') center/cover no-repeat fixed;
+    url('next-step-background.png') center/cover no-repeat fixed;
   min-height: 100vh;
   line-height: 1.6;
   overflow-x: hidden;
